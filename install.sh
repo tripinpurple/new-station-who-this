@@ -10,6 +10,5 @@ select role in devops design dev
 do
     brew install --cask $(<lists/$role/casks.txt)
     brew install $(<lists/$role/packages.txt)    
-    echo "Installation Finished! All of your packages & casks for $REPLY are installed."
     exit
 done
