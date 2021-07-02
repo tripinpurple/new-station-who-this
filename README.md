@@ -1,9 +1,9 @@
 # new station, who this?
 
 ### Description
-	The purpose of this repo is to contain all of the packages and casks 
-	that are necessary for me to work. Yes spotify is necessary :D
-
+	This script makes it easy to setup a new work-station
+	It has all of the necessary packages and casks for work
+	Yes spotify is necessary :3
 ### Lists
 
 You can clone and edit the lists for yourself or fork the project so it suites your needs.
