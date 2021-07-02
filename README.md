@@ -4,6 +4,8 @@
 	The purpose of this repo is to contain all of the packages and casks 
 	that are necessary for me to work. Yes spotify is necessary :D
 
+### Lists
+
 You can clone and edit the lists for yourself or fork the project so it suites your needs.
 
 - [packages](lists/packages.txt)<br>
