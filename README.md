@@ -44,5 +44,5 @@ chmod +x ./install.sh
 
 ## Or a one liner
 ```
-git clone git@github.com:tripinpurple/new-station-who-this.git && chmod +x ./install.sh && ./install.sh
+git clone git@github.com:tripinpurple/new-station-who-this.git && cd new-station-who-this && chmod +x ./install.sh && ./install.sh
 ```
