@@ -1,4 +1,6 @@
 iterm2
 docker
+sequel-pro
 slack
 spotify
+1password
