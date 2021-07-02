@@ -8,7 +8,7 @@ echo 'new station, who this?'
 ## From a selected role install the packages & casks
 select role in devops design dev
 do
-    brew install --cask $(<lists/$role/cask.txt) && brew install $(<lists/$role/packages.txt)    
+    brew install --cask $(<lists/$role/casks.txt) && brew install $(<lists/$role/packages.txt)    
 done
 
 ## Install the packages and casks
