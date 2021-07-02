@@ -1,15 +1,23 @@
 # new station, who this?
 
 ### Description
+
 	This script makes it easy to setup a new work-station
 	It has all of the necessary packages and casks for work
 	Yes spotify is necessary :3
+
 ### Lists
+
+- [devops](lists/devops)
+- [dev](lists/dev)
+- [design](lists/design)
 
 You can clone and edit the lists for yourself or fork the project so it suites your needs.
 
-- [packages](lists/packages.txt)<br>
-- [casks](lists/cask.txt)
+### Example for a devops role:
+
+- [packages](lists/devops/packages.txt)<br>
+- [casks](lists/devops/cask.txt)
 
 ## What does it do?
 
@@ -17,7 +25,6 @@ You can clone and edit the lists for yourself or fork the project so it suites y
 	Once homebrew is ready it goes over the lists and installes them.
 
 ## Installation
-
 
 <i>First lets clone the project</i>
 ```
