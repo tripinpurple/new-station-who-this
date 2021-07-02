@@ -14,7 +14,8 @@
 
 You can clone and edit the lists for yourself or fork the project so it suites your needs.
 
-### Example for a devops role:
+### Example:
+<i>for devops role</i>
 
 - [packages](lists/devops/packages.txt)<br>
 - [casks](lists/devops/cask.txt)
