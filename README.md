@@ -1,6 +1,6 @@
 # new station, who this?
 
-### Description:
+### Description
 	The purpose of this repo is to contain all of the packages and casks 
 	that are necessary for me to work. Yes spotify is necessary :D
 
