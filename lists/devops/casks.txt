@@ -4,3 +4,4 @@ sequel-pro
 slack
 spotify
 1password
+vlc
