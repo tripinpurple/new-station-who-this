@@ -46,5 +46,5 @@ chmod +x ./install.sh
 	This script should be only executed once, for its purpose
 	You can use this one liner to do all that & leave no cluter on your disk
 ```
-cd /tmp && git clone git@github.com:tripinpurple/new-station-who-this.git && cd new-station-who-this && chmod +x ./install.sh && ./install.sh && cd .. && rm -rf new-station-who-this
+cd /tmp && git clone git@github.com:tripinpurple/new-station-who-this.git && cd new-station-who-this && chmod +x ./install.sh && ./install.sh && cd .. && rm -rf new-station-who-this && cd
 ```
