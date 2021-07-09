@@ -2,3 +2,5 @@ act
 minikube
 htop
 watch
+wget
+jq
