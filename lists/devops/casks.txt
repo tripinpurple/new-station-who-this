@@ -5,3 +5,6 @@ slack
 spotify
 1password
 vlc
+protonvpn
+tablesplus
+dbngin
