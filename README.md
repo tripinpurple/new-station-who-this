@@ -3,7 +3,7 @@
 ### Description
 
 	This script makes it easy to setup a new work-station
-	It has <i>all</i> of the necessary packages and casks for work
+	It has all of the necessary packages and casks for work
 	Yes spotify is necessary :3
 
 ### Lists
