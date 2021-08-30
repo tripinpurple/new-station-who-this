@@ -3,7 +3,7 @@
 ### Description
 
 	This script makes it easy to setup a new work-station
-	It has all of the necessary packages and casks for work
+	It has <i>all</i> of the necessary packages and casks for work
 	Yes spotify is necessary :3
 
 ### Lists
@@ -43,7 +43,7 @@ chmod +x ./install.sh
 ```
 
 ## Or a one liner
-	This script should be only executed once, for its purpose
+	This script should be only executed once
 	You can use this one liner to do all that & leave no cluter on your disk
 ```
 cd /tmp && git clone git@github.com:tripinpurple/new-station-who-this.git && cd new-station-who-this && chmod +x ./install.sh && ./install.sh && cd .. && rm -rf new-station-who-this && cd
