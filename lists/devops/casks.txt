@@ -7,3 +7,4 @@ vlc
 protonvpn
 tablesplus
 dbngin
+rectangle
