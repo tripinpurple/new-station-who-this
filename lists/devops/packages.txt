@@ -5,3 +5,4 @@ watch
 wget
 jq
 awscli
+terraform
